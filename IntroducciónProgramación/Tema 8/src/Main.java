@@ -4,7 +4,7 @@ public class Main {
 
     persona.setEdad(33);
     persona.setNombre("Diego");
-    persona.setTelefono(654072617);
+    persona.setTelefono(757577687);
 
     System.out.println(persona.getNombre() + ", " + persona.getEdad() + " tacos");
     System.out.println("telefono: " + persona.getTelefono());
